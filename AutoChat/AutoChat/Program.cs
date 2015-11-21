@@ -99,7 +99,7 @@ namespace AutoChat
         {
             Congrats = new List<string>
             {
-                "gj", "gj", "gj", "gj", "good job", "wp", "nice", "goodjob", "gjwp", "nice one", "sweet", "awesome"
+                "gj", "gj", "gj", "gj", "good job", "wp", "nice", "goodjob", "parabens", "nice one", "boa", "ai sim"
             };
 
             Smileys = new List<string>
@@ -109,7 +109,7 @@ namespace AutoChat
 
             Greetings = new List<string>
             {
-                "gl", "hf", "have fun guys", "gl hf", "glhf", "have fun all"
+                "to aprendendo ainda", "sou iniciante", "bom jogo", "estou aprendendo a jogar", "vamo que vamo", "vamos ganhar hein?!"
             };
 
             SignOff = new List<string>
@@ -119,27 +119,27 @@ namespace AutoChat
 
             Apologize = new List<string>
             {
-                "damn", "sorry guys", "sorry", "woops", "soz", "my bad"
+                "damn", "desculpa galera", "desculpa", "que saco", "quase", "my bad"
             };
 
             Sympathy = new List<string>
             {
-                "bl", "bl", "tough luck", "bad luck", "bummer"
+                "bl", "bl", "que azar", "bad luck", "é..."
             };
 
             Clutch = new List<string>
             {
-                "hahaha", "NICE", "GJ", "WELL DONE", "HAHA", "epic", "REKT", "WOW", "GG"
+                "hahaha", "NICE", "GJ", "WELL DONE", "HAHA", "saudhsauda", "REKT", "WOW", "GG"
             };
 
             Motivate = new List<string>
             {
-                "push towers", "towers" , "clear lanes", "push", "need objectives", "objectives" ,"lanes", "push", "drag?"
+                "vamo vamo vamo", "torre" , "limpa a lane", "vamo pusha", "precisamos concentrar nos nossos objetivos", "objetivos galera!" ,"olha as lanes", "pusha", "drag?"
             };
 
             Honor = new List<string>
             {
-                "wp" ,"wp" , "wp sir", "damn wp", "wp mate", "wp dude", "wp man"
+                "wp" ,"wp" , "boa", "ai sim", "uhuu", "parabens man", "isso ai"
             };
         }
 
